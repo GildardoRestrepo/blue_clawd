@@ -1,0 +1,7 @@
+{
+  "name": "skin-azul",
+  "version": "1.0.0",
+  "description": "Acento azul y un Clawd azul animado sobre la barra del prompt de Claude Code (app de escritorio).",
+  "author": { "name": "GildardoRestrepo" },
+  "license": "MIT"
+}

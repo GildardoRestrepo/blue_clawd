@@ -1,0 +1,6 @@
+{
+  "name": "blue-clawd",
+  "owner": { "name": "GildardoRestrepo" },
+  "description": "Clawd azul animado para la app de escritorio de Claude Code.",
+  "plugins": [{ "name": "skin-azul", "source": "./" }]
+}
